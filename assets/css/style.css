@@ -6,6 +6,20 @@
     font-family: "Roboto", sans-serif;
 
   }
+  .btn-lang {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    padding: 10px;
+    background-color: #1F1F1F;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-lang:hover {
+    background-color: #c12e2e;
+  }
   body{
     background: #1E1E1E ;
     color: #fff;
