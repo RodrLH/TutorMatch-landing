@@ -11,6 +11,7 @@
   <body>
     <!--Navbar-->
     <header class="header">
+        
         <a href="" class="logo">
           <img src="assets/images/logo/logoWhite.webp" alt="Logo" class="img-logo">
         </a>
@@ -24,13 +25,15 @@
            <a href=" " style="--i:1;" class="label-a" id="about">Acerca de nosotros</a>
            <a href=" " style="--i:2;" class="label-a" id="price">Precios</a>
            <a href=" " style="--i:3;" class="label-a" id="contact">Contacto</a>
-           <a href=" " style="--i:4;" class="label-a">INSCRIBIRME</a>
+           <a href=" " style="--i:4;" class="label-a" id="INSCRIBIRME">INSCRIBIRME</a>
+           <button id="lang-toggle" class="btn-lang">EN</button>
          </nav>
+         
     </header>
     <!--End Navbar-->
     <!--Hero Section-->
     <section class="hero">
-        <div class="banner">
+        <div class="banner" style="background-image: url(assets/images/complements/fondo_landing.webp)">
             <div class="containerH row">
                 <div class="boxH col2">
                     <h1>Mejora tus habilidades en programación</h1>
@@ -87,7 +90,7 @@
     <!--End Hero Section-->
     <!--About Section-->
     <section class="about">
-        <div class="background-about">
+        <div class="background-about" style="background-image: url(assets/images/complements/fondo_landing.webp)">
             <div class="about-container">
                 <div class="about-box">
                     <img src="assets/images/complements/phone.webp" alt="About Image" width="200">
@@ -180,9 +183,9 @@
           <h2 class="titulo">Contáctanos</h2>
           <p class="parrafo">Comunícate con nosotros utilizando el formulario de contacto a continuación. Esperamos con ansias escucharte y ayudarte con tus necesidades.</p>
           <form @submit.prevent="submitForm" class="form">
-            <input type="text" id="name" v-model="formData.name" required class="input" :placeholder="Ingrese Nombre">
-            <input type="email" id="email" v-model="formData.email" required class="input" :placeholder="Ingrese Email">
-            <textarea id="message" v-model="formData.message" required class="input" :placeholder="Ingrese Mensaje"></textarea>
+            <input type="text" id="name" v-model="formData.name" required class="input" placeholder="Ingrese Nombre">
+            <input type="email" id="email" v-model="formData.email" required class="input" placeholder="Ingrese Email">
+            <textarea id="message" v-model="formData.message" required class="input" placeholder="Ingrese Mensaje"></textarea>
             <button type="submit" class="input">Enviar</button>
           </form>
         </div>
