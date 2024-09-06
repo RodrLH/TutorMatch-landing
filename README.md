@@ -780,10 +780,10 @@ El esquema de colores de TutorMatch está cuidadosamente seleccionado para refle
 - 70111E (RGB 112, 17, 30): Un tono profundo de rojo oscuro utilizado en encabezados, bordes o elementos que requieran atención sin ser intrusivos.
 - 313131 (RGB 49, 49, 49): Esté gris oscuro será el color de fondo predominante, proporcionando una base neutra que permite que los demás colores destaquen.
 - E33744 (RGB 227, 55, 68): Similar al EF496D, pero con un tono ligeramente más suave, este color se emplea en variaciones de botones y elementos interactivos, dando flexibilidad en el diseño sin perder coherencia visual.
-  <br>
-  <img src="Images/StyleColores.png" width="800"/>
-  <br>
-  Este esquema de colores logra un balance entre energía y estabilidad, ayudando a dirigir la atención de los usuarios a donde es más relevante sin ser visualmente abrumador.
+<br>
+<img src="Images/StyleColores.png" width="800"/>
+<br>
+Este esquema de colores logra un balance entre energía y estabilidad, ayudando a dirigir la atención de los usuarios a donde es más relevante sin ser visualmente abrumador.
 
 # Spacing
 Uno de los principios fundamentales del diseño en TutorMatch es el uso adecuado del espaciado. El espaciado generoso entre elementos asegura una interfaz despejada y fácil de navegar. Cada sección, botón y bloque de texto tendrá márgenes y paddings definidos que permitan una experiencia visual relajada y sin saturaciones. Este enfoque también mejora la legibilidad y guía al usuario de manera intuitiva por la plataforma.
@@ -802,8 +802,8 @@ La guía de estilo web de TutorMatch define los estándares visuales y de intera
 # Tipografía
 - Fuente principal: Se usa la fuente "Roboto", sans-serif para todo el sitio web, garantizando una experiencia visual coherente y moderna.
 - Tamaños de fuente:
-    - Títulos principales: Tamaños grandes y llamativos.
-    - Texto regular: Tamaños más pequeños y ajustados a la jerarquía de información.
+  - Títulos principales: Tamaños grandes y llamativos.
+  - Texto regular: Tamaños más pequeños y ajustados a la jerarquía de información.
 
 # Interacción
 - Hover y transiciones: Se aplican efectos de hover suaves y transiciones (ease-in-out, 0.3s, 0.5s) a elementos como botones, imágenes, y enlaces, lo que mejora la interactividad del usuario.
@@ -826,41 +826,41 @@ La guía de estilo web de TutorMatch define los estándares visuales y de intera
 ### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 Los Sistemas de Organización se refieren a cómo agrupamos y estructuramos la información en la plataforma. Esto afecta la manera en que los usuarios experimentan el sitio y cómo interactúan con él. En nuestro caso, hemos decidido usar tres tipos de organización:
-- Jerarquía Visual: Es cuando el contenido está organizado de mayor a menor importancia. En la página de inicio de TutorMatch, los elementos más importantes, como la búsqueda de tutores y los cursos más solicitados, estarán más visibles, mientras que la información secundaria estará en otras secciones.
-- Organización Secuencial: Este enfoque es como una guía paso a paso. Lo usamos cuando el usuario debe seguir un proceso, como encontrar un tutor, programar una sesión y hacer el pago. Cada paso está claramente definido para que el usuario sepa exactamente qué hacer.
-- Organización Matricial: Esto es útil cuando hay muchas opciones que se deben filtrar. En la sección de búsqueda de tutores, permitimos que los usuarios filtren según diferentes criterios como especialidad, nivel de curso o disponibilidad. Esto ayuda a que encuentren exactamente lo que necesitan sin perderse en un mar de opciones.
+  - Jerarquía Visual: Es cuando el contenido está organizado de mayor a menor importancia. En la página de inicio de TutorMatch, los elementos más importantes, como la búsqueda de tutores y los cursos más solicitados, estarán más visibles, mientras que la información secundaria estará en otras secciones.
+  - Organización Secuencial: Este enfoque es como una guía paso a paso. Lo usamos cuando el usuario debe seguir un proceso, como encontrar un tutor, programar una sesión y hacer el pago. Cada paso está claramente definido para que el usuario sepa exactamente qué hacer.
+  - Organización Matricial: Esto es útil cuando hay muchas opciones que se deben filtrar. En la sección de búsqueda de tutores, permitimos que los usuarios filtren según diferentes criterios como especialidad, nivel de curso o disponibilidad. Esto ayuda a que encuentren exactamente lo que necesitan sin perderse en un mar de opciones.
 
 ### 4.2.2. Labeling Systems
 
 Los Sistemas de Etiquetado son las etiquetas o palabras clave que usamos para identificar diferentes tipos de información. Es fundamental que las etiquetas sean claras y simples para evitar confusión. Esto implica usar etiquetas cortas y fáciles de entender. Por ejemplo:
 
-- Los perfiles de tutores tendrán etiquetas como "Disponible" o "Especialidad."
-- En lugar de usar descripciones largas para los cursos, utilizamos etiquetas simples como "Complejidad Algoritmica" o "Estructuras de Datos."
+  - Los perfiles de tutores tendrán etiquetas como "Disponible" o "Especialidad."
+  - En lugar de usar descripciones largas para los cursos, utilizamos etiquetas simples como "Complejidad Algoritmica" o "Estructuras de Datos."
 
 ### 4.2.3. SEO Tags and Meta Tags
 Las SEO Tags y Meta Tags son fundamentales para hacer que nuestro sitio sea visible en los motores de búsqueda. Estas etiquetas ayudan a que los usuarios que busquen tutorías o cursos específicos puedan encontrarnos fácilmente en Google u otros buscadores. A continuación, algunos ejemplos de lo que incluimos:
 
-- Título: "Encuentra Tutores en UPC | TutorMatch"
-- Meta Descripción: Esta es una pequeña descripción que aparece en los resultados de búsqueda, como: "Conéctate con estudiantes de Ingeniería de Software en UPC que ofrecen tutorías en cursos clave como algoritmos y estructuras de datos."
-- Palabras Clave: Incluimos palabras clave como "TutorMatch, tutores UPC, ayuda en ingeniería de software" para mejorar nuestra visibilidad.
-- Autor: Indicamos el autor del sitio como "Equipo de TutorMatch."
+  - Título: "Encuentra Tutores en UPC | TutorMatch"
+  - Meta Descripción: Esta es una pequeña descripción que aparece en los resultados de búsqueda, como: "Conéctate con estudiantes de Ingeniería de Software en UPC que ofrecen tutorías en cursos clave como algoritmos y estructuras de datos."
+  - Palabras Clave: Incluimos palabras clave como "TutorMatch, tutores UPC, ayuda en ingeniería de software" para mejorar nuestra visibilidad.
+  - Autor: Indicamos el autor del sitio como "Equipo de TutorMatch."
 
 ### 4.2.4. Searching Systems
 
 Los Sistemas de Navegación definen cómo los usuarios se moverán por la plataforma. La idea es que puedan cumplir sus metas, como encontrar un tutor o registrarse como tal, de forma sencilla. Hemos diseñado la navegación de la siguiente manera:
 
-- Barra de Navegación Principal: Esta es la típica barra en la parte superior de la pantalla que tiene enlaces a las secciones más importantes, como Inicio, Buscar un Tutor, Ofrecer Tutoría, y Contáctanos. Los usuarios podrán acceder a cualquier parte del sitio desde esta barra en cualquier momento.
+  - Barra de Navegación Principal: Esta es la típica barra en la parte superior de la pantalla que tiene enlaces a las secciones más importantes, como Inicio, Buscar un Tutor, Ofrecer Tutoría, y Contáctanos. Los usuarios podrán acceder a cualquier parte del sitio desde esta barra en cualquier momento.
 
-- Navegación Móvil: Para los usuarios que ingresen desde un dispositivo móvil, utilizamos un menú tipo "hamburguesa" que se despliega cuando es necesario, optimizando el espacio en pantalla.
+  - Navegación Móvil: Para los usuarios que ingresen desde un dispositivo móvil, utilizamos un menú tipo "hamburguesa" que se despliega cuando es necesario, optimizando el espacio en pantalla.
 
 ### 4.2.5. Navigation Systems
 Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que necesitan sin perderse. Hemos diseñado un sistema robusto para ayudar a los estudiantes a encontrar tutores o cursos específicos. Algunas características incluyen:
 
-- Barra de Búsqueda Global: Esta barra permitirá a los usuarios escribir directamente lo que buscan, como "Base de Datos" o el nombre de un tutor. Está disponible en toda la plataforma.
+  - Barra de Búsqueda Global: Esta barra permitirá a los usuarios escribir directamente lo que buscan, como "Base de Datos" o el nombre de un tutor. Está disponible en toda la plataforma.
 
-- Filtros de Búsqueda: Después de realizar una búsqueda, los usuarios podrán filtrar los resultados por cosas como especialidad del tutor, calificaciones, o disponibilidad de horarios.
+  - Filtros de Búsqueda: Después de realizar una búsqueda, los usuarios podrán filtrar los resultados por cosas como especialidad del tutor, calificaciones, o disponibilidad de horarios.
 
-- Resultados Claros: Los resultados de la búsqueda se mostrarán en un formato fácil de entender, con información clave como el nombre del tutor, su especialización y su calificación, permitiendo a los usuarios hacer una elección rápida.
+  - Resultados Claros: Los resultados de la búsqueda se mostrarán en un formato fácil de entender, con información clave como el nombre del tutor, su especialización y su calificación, permitiendo a los usuarios hacer una elección rápida.
 
 
 ### 4.3. Landing Page UI Design
@@ -936,6 +936,37 @@ User Goal: Crear curso
 <img src="Images/User_goal_create_course.jpg">
 
 ### 4.4.3. Web Applications Mock-ups
+
+<img src="Images/image_mockup_1.jpg">
+
+<img src="Images/image_mockup_2.jpg">
+
+<img src="Images/image_mockup_3.jpg">
+
+<img src="Images/image_mockup_4.jpg">
+
+<img src="Images/image_mockup_5.jpg">
+
+<img src="Images/image_mockup_6.jpg">
+
+<img src="Images/image_mockup_7.jpg">
+
+<img src="Images/image_mockup_8.jpg">
+
+<img src="Images/image_mockup_9.jpg">
+
+<img src="Images/image_mockup_10.jpg">
+
+<img src="Images/image_mockup_11.jpg">
+
+<img src="Images/image_mockup_12.jpg">
+
+<img src="Images/image_mockup_13.jpg">
+
+<img src="Images/image_mockup_14.jpg">
+
+<img src="Images/image_mockup_15.jpg">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
@@ -943,7 +974,7 @@ User Goal: Crear curso
 El diagrama de contexto ofrece una visión general de cómo la página TutorMatch interactúa con sus usuarios. Muestra las relaciones principales entre la plataforma y los diferentes tipos de usuarios, como estudiantes y tutores, y cualquier posible integración con sistemas externos.
 
   <img src="Images/contextc4.png"/>
-
+  
 ### 4.6.2. Software Architecture Container Diagrams
 El diagrama de contenedores muestra una vista de las relaciones entre la página principal de TutorMatch, la aplicación web, el gateway de API y los contextos delimitados que forman parte de la arquitectura del sistema TutorMatch.
 
@@ -954,7 +985,7 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
 ### 4.7.1. Class Diagrams
 
   <img src="Images/class_diagram.png"/>
-
+  
 ### 4.7.2. Class Dictionary
 
 ## 1. Class User
@@ -1070,8 +1101,6 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
 ### 4.8.1. Database Diagram
 
 <img src="Images/Database_diagram.png"/>
-
-
 # Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
