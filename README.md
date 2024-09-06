@@ -1266,7 +1266,7 @@ Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para la entrega del Sprint 1, se ha lanzado la versión inicial del Landing Page, la cual ha sido publicada en GitHub Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
 
-<img src="Images/landing1.jpg">
+<img src="Images/collabInsight.png">
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
