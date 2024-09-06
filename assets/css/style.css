@@ -146,7 +146,6 @@
 
 .banner {
     height: 70vh;
-    background-image: url(assets/images/complements/fondo_landing.webp);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -317,7 +316,6 @@
     padding: 5rem 0;
     height: 100%;
     background-color: #1E1E1E;
-    background-image: url(assets/images/complements/backg.webp);
     background-size: cover;
     background-position: center;
 }
